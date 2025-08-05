@@ -1,0 +1,11 @@
+{
+ "token": "(insert)",
+ "color": "#ffee00",
+ "prefix": "-",
+ "store": "https://store.stingcraft.net/",
+ "site": "www.stingcraft.net",
+ "verification": "<:stingcraft:697105789524901898> **Welcome to StingCraft!** <:stingcraft:697105789524901898>\nBefore you head into the discord, you first need to read the rules properly, \nthen react to the :white_check_mark: below. \n\n**__Discord Rules:__** `[April 2020]`\n:black_small_square: No excessive swearing.\n:black_small_square: No racial slurs.\n:black_small_square: No advertising.\n:black_small_square: No NSFW. \n:black_small_square: Use the designated channels for your needs, i.e #suggestions for suggestions.\n:black_small_square: Don't tag __Admins__ or __above__.\n:black_small_square: If you're a non staff player, and you're helping another player, it has to stay in the discord.\n\n**NOTE:** Don't give your credentials to __anyone__! \n\nThanks for joining **__StingCraft__** | **Discord** <:stingcraft:697105789524901898>",
+ "verifyROLE": "Player",
+ "ticketID": "697107893534720120",
+ "autorole": "697107596787580939"
+}
